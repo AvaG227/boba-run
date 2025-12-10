@@ -1,0 +1,64 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    background: #fff7f3;
+    color: #4b2e2e;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #ffd9c5;
+    border-bottom: 3px solid #f5b79e;
+}
+
+h1 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+.tagline {
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+}
+
+/* Hero section */
+.hero {
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.boba-img {
+    width: 180px;
+    margin-bottom: 1rem;
+}
+
+/* Jokes section */
+.jokes {
+    padding: 1rem 2rem;
+}
+
+.jokes h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.joke-card {
+    background: #ffece3;
+    border: 2px solid #f5b79e;
+    padding: 1rem;
+    border-radius: 12px;
+    margin: 1rem auto;
+    max-width: 500px;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    background: #ffd9c5;
+    border-top: 3px solid #f5b79e;
+}
